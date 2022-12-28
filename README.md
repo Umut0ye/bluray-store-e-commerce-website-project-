@@ -9,4 +9,4 @@
 
 ![markdown](https://github.com/Umut0ye/bluray-store-e-commerce-website-project-/blob/main/website%20ss/preview.png)
 
-![markdown]https://github.com/Umut0ye/bluray-store-e-commerce-website-project-/blob/main/website%20ss/admin-panel.png
+![markdown](https://github.com/Umut0ye/bluray-store-e-commerce-website-project-/blob/main/website%20ss/admin-panel.png)
