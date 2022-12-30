@@ -4,6 +4,7 @@
 
 - Server Explorer üzerinden database bağlantısını yapın.
 - Bağladınız databasenin özelliklerini webconfig dosyasının içerisinde connectionString ile değiştirin.
+- Daha fazlası için https://www.youtube.com/@sadik_turan
 
 ![GitHub](https://github.com/Umut0ye/bluray-store-e-commerce-website-project-/blob/main/website%20ss/index.png)
 
